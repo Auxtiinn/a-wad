@@ -1,0 +1,8 @@
+;/*FB_PKG_DELIM*/
+
+__d("LSUpdateBackgroundAccountNotifEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
+__d("LSUpdateCCNotificationsEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
+__d("LSUpdateCMChannelInvitationNotifEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
+__d("LSUpdateCMPromotionalChannelNotifEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
+__d("LSUpdateMessengerMemoriesNotifEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
+__d("LSUpdateNotesNotifEnabled",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.resolve(c)}e.exports=a}),null);
