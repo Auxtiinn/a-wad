@@ -1,0 +1,41 @@
+nav{
+    padding: 25px;
+    background-color: antiquewhite;
+    height: 50px;
+}
+div{
+    margin:0px ;
+}
+
+body{
+    margin: 0px;
+}
+.gallery{
+    display: inline-block;
+    border: 1px solid;
+    margin: 5px;
+    width: 200px;
+    align-items: center;
+}
+.gallery .Description{
+    padding: 10px;
+    text-align: center;
+}
+.gallery:hover{
+    border: 1px solid gray;
+   
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.test ::after{
+    font-style: italic;
+}
+.testing{
+    font-style: italic;
+    display: inline-block;
+}
+.top{
+    font-style:oblique;
+}
